@@ -187,7 +187,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/Phuc2l/Notifu/main/we
                                         },
                                     {
                                             ["name"]= "lệnh teleport sever",
-                                            ["value"]= '```'game:GetService("TeleportService"):TeleportToPlaceInstance('..game.PlaceId..', "'..game.JobId..'", game.Players.LocalPlayer)'```',
+                                            ["value"]= "```"'game:GetService("TeleportService"):TeleportToPlaceInstance('..game.PlaceId..', "'..game.JobId..'", game.Players.LocalPlayer)'"```",
                                             ["inline"]= true
                                         },
                                     }              
@@ -234,7 +234,7 @@ local Data =
                 },
                 {
                     ["name"] = "lệnh teleport sever",
-                    ["value"] = '```'game:GetService("TeleportService"):TeleportToPlaceInstance(' .. game.PlaceId .. ', "' .. game.JobId .. '", game.Players.LocalPlayer)'```',
+                    ["value"] = "```"game:GetService("TeleportService"):TeleportToPlaceInstance(' .. game.PlaceId .. ', "' .. game.JobId .. '", game.Players.LocalPlayer)"```",
                     ["inline"] = true
                 },
             }
@@ -317,7 +317,7 @@ local Data =
                 },
                 {
                     ["name"] = "lệnh teleport sever",
-                    ["value"] = '```'game:GetService("TeleportService"):TeleportToPlaceInstance(' .. game.PlaceId .. ', "' .. game.JobId .. '", game.Players.LocalPlayer)'```',
+                    ["value"] = 'game:GetService("TeleportService"):TeleportToPlaceInstance(' .. game.PlaceId .. ', "' .. game.JobId .. '", game.Players.LocalPlayer)',
                     ["inline"] = true
                 },
             }
