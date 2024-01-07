@@ -161,7 +161,7 @@ end)
 
 
 if game:GetService("Workspace").Map:FindFirstChild("MysticIsland") then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/hub5144/1/main/3'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Phuc2l/Notifu/main/webhook'))()
 
                     local HttpService = game:GetService("HttpService")
                     local Data =
@@ -207,7 +207,7 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/hub5144/1/main/3'))()
 
 if game.PlaceId == 7449423635 then 
 if game:GetService("Lighting").Sky.MoonTextureId=="http://www.roblox.com/asset/?id=9709149431" then
-loadstring(game:HttpGet('https://raw.githubusercontent.com/hub5144/1/main/3'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Phuc2l/Notifu/main/webhook'))()
 
                     local HttpService = game:GetService("HttpService")
 local Data =
@@ -300,7 +300,7 @@ end)
 
 if game.PlaceId == 4442272183 then 
 if game.ReplicatedStorage["Cursed Captain"] then 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/hub5144/1/main/3'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Phuc2l/Notifu/main/webhook'))()
                     local HttpService = game:GetService("HttpService")
 local Data =
 {
